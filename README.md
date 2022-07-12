@@ -1,1 +1,1 @@
-# aws-lamba-poc
+# aws-lambda-poc
